@@ -18,6 +18,9 @@
 
 @media (min-width: 992px) {
   #picture {
-    transform: rotate(25deg) translatey(38%);
+    transform: rotate(25deg) translate(-40%, 20%);
+  }
+  #title > div {
+    height: 35vh;
   }
 }/*# sourceMappingURL=styles.css.map */
